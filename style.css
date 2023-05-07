@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 90vh; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(img/netflix.jpeg);
+    background-size: cover;
+}
+
+.logo {
+    color: #e50914;
+
+}
+
+.btn {
+    background-color: #e50914;
+}
+
+header .btn:hover {
+    transition: 0.2s;
+    transform: scale(1.05);
+    background-color: #e50914;
+    border: white;
+
+    
+}
+
+nav div a img{
+    height: 70px;
+    width: 120px;
+}
+
+.card:hover {
+    transition: 0.8s;
+    transform: scale(1.05);
+}
+
+#serie img {
+    height: 18vh;
+    width: auto;
+}
