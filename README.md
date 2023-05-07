@@ -1,1 +1,1 @@
-# netflic-recommendation
+# netflix-recommendation
